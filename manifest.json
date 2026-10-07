@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 33,
-  "publishedAt": "2026-10-06T21:45:02.2128353+00:00",
+  "version": 34,
+  "publishedAt": "2026-10-07T20:34:20.6259121+00:00",
   "launcher": {
     "version": "0.2.2",
     "minVersion": "0.1.0",
@@ -19,8 +19,8 @@
     {
       "path": "client/ClassicUO.exe",
       "size": 201216,
-      "sha256": "aa256e03953861a23d324e6fe871c3f5afa60b6db3eb597c323ad32509e06b00",
-      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/client-v0.1.17/ClassicUO.exe"
+      "sha256": "97b38a64f09fb2300f6d4ef81ca1f8a64672aaa654d8a0c02b09e5b8d7b96b0e",
+      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/client-v0.1.18/ClassicUO.exe"
     },
     {
       "path": "client/ClassicUO.exe.config",
@@ -799,8 +799,8 @@
     {
       "path": "client/cuo.dll",
       "size": 14935552,
-      "sha256": "ed7f61aad9c0e32963eaa0a945a099f959812620b269bc902eacb0f4ad570c34",
-      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/client-v0.1.17/cuo.dll"
+      "sha256": "b823006f59cf327002cc3faec924cdf85368c30cd07d3789ed1bf55dbd48f339",
+      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/client-v0.1.18/cuo.dll"
     },
     {
       "path": "client/cuoapi.dll",

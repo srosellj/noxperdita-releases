@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 34,
-  "publishedAt": "2026-10-07T20:34:20.6259121+00:00",
+  "version": 35,
+  "publishedAt": "2026-10-08T19:43:37.3326985+00:00",
   "launcher": {
     "version": "0.2.2",
     "minVersion": "0.1.0",
@@ -3133,8 +3133,8 @@
     {
       "path": "data/tiledata.mul",
       "size": 3188736,
-      "sha256": "e8f2dd14dd6e6bdb14639bb5748e54985a1c334f6ba9de07b9bff0329d10794f",
-      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/data-v1/tiledata.mul"
+      "sha256": "d96dc65883ea45bf2042eb5397013cbcbb675720802cdb2a170c869d6b6c634e",
+      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/data-v10/tiledata.mul"
     },
     {
       "path": "data/unifont.mul",

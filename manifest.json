@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 35,
-  "publishedAt": "2026-10-08T19:43:37.3326985+00:00",
+  "version": 36,
+  "publishedAt": "2026-10-08T20:48:42.7774998+00:00",
   "launcher": {
     "version": "0.2.2",
     "minVersion": "0.1.0",
@@ -2946,9 +2946,9 @@
     },
     {
       "path": "data/mobtypes.txt",
-      "size": 28655,
-      "sha256": "cd4347b3b6909a0ec32c362c8616f8222ea82e1b53279207c1962f8348512e27",
-      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/data-v1/mobtypes.txt"
+      "size": 28636,
+      "sha256": "2941aafc305bbe38b96393bb3e4b5236ee2770ea4182c80217afe312d56e0599",
+      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/data-v11/mobtypes.txt"
     },
     {
       "path": "data/multi.idx",
